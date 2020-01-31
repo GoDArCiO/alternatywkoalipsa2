@@ -1,2 +1,6 @@
 Link do gierki: https://alternatywkoalipsa-2.netlify.com/
 W tym repo są tylko skrypty w C#
+Należy wziąć do uwagę, że jest to bardzo duży projekt i napisanie gry razem z testowaniem i naprawianiem bugów, 
+sklejaniem grafik i wycinaniem dzwięków doprowadziło do crunchu przed deadline i jako solo-developer,
+duza czesc skryptow dodawana pod koniec jest pisana na szybko.
+Niekoniecznie z myślą o skalowalności i o powrocie za kilka miesięcy i rozwijaniu gry, a o skończeniu jej w terminie.
